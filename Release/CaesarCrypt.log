@@ -1,0 +1,8 @@
+﻿  CaesarCrypt.cpp
+CaesarCrypt.cpp(22): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+CaesarCrypt.cpp(75): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert.
+  All 139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  CaesarCrypt.vcxproj -> C:\Users\Hendrik\Desktop\CaesarCrypt v2.0\Release\CaesarCrypt.exe
+  CaesarCrypt.vcxproj -> C:\Users\Hendrik\Desktop\CaesarCrypt v2.0\Release\CaesarCrypt.pdb (Full PDB)
