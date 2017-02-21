@@ -107,7 +107,7 @@ int main()
 	system("title CaesarCrypt");
 
 	cout << " *****************" << endl;
-	cout << "$ CaesarCrypt 2.0 $" << endl;
+	cout << "$   CaesarCrypt   $" << endl;
 	cout << "$ by Hendrik Tete $" << endl;
 	cout << " *****************" << endl;
 
