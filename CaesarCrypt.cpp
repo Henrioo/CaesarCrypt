@@ -84,7 +84,8 @@ void decrypt()
 	
 	cout << endl << "Done decrypting!" << endl;
 	cout << "Opening file...\n" << endl;
-	system("start decrypted.txt");	// open file
+	system("decrypted.txt");	// open file
+	system("del decrypted.txt");	// delete file after closing it
 	
 }
 
